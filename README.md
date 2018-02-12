@@ -1,3 +1,6 @@
+# PLEASE USE https://github.com/wso2/identity-anonymization-tool
+
+
 # Tool for removing/Replacing all identifieres matching given criteria
 
 ## How to Build
